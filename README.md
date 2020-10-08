@@ -3,7 +3,7 @@
 <br>
 <p align="center">
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-Configuration">Configuration</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-Configuration">Configuration</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Technologies
