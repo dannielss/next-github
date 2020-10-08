@@ -8,7 +8,7 @@
 ## :rocket: Technologies
 
 - [React](https://reactjs.org)
-- [Next] (https://nextjs.org/)
+- [Next](https://nextjs.org/)
 
 ## :wrench: Configuration
 
